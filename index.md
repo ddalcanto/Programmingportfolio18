@@ -1,4 +1,4 @@
-# Welcome
+# Daniel Dal Canto freshmen portfolio
 Here you will find some of the project I've worked on my freshmen year is high school
 ## Contact Info
 -danieldc03@gmail.com
