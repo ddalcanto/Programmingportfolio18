@@ -1,2 +1,6 @@
 # Welcome
-OOP projects from 2017-2018 school year
+Here you will find some of the project I've worked on my freshmen year is high school
+
+## Group Projects
+-SpaceShip Game
+
