@@ -6,5 +6,7 @@ Here you will find some of the project I've worked on my freshmen year is high s
 -SpaceShip Game
 ### Individual Projects
 -A Guide to Date and Period in Java
+
 -Shape Tester
+
 -Time Since
