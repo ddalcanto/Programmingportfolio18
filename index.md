@@ -10,12 +10,12 @@ https://github.com/godofdeathftw/Spaceship-Shooter/blob/master/README.md
 
 ### Individual Projects
 -A Guide to Date and Period in Java
-
-<img width="924" alt="daysguide" src="https://user-images.githubusercontent.com/26355832/38753015-4c8de4f8-3f1a-11e8-8c38-7655a82ca299.png">
+https://github.com/godofdeathftw/A-Guide-to-Date-and-Period-in-Java
 
 -Shape Tester
 
--Time Since Calculator
+https://github.com/godofdeathftw/shapetester
 
-<img width="1164" alt="time since calculator" src="https://user-images.githubusercontent.com/26355832/38753172-d3ebdb1c-3f1a-11e8-9b12-60eeae078b73.png">
+-Time Since Calculator
+https://github.com/godofdeathftw/Time-Since-Calculator
 
