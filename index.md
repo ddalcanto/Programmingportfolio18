@@ -21,4 +21,7 @@ Finished Game-
 
 -Shape Tester
 
--Time Since
+-Time Since Calculator
+
+<img width="1164" alt="time since calculator" src="https://user-images.githubusercontent.com/26355832/38753172-d3ebdb1c-3f1a-11e8-9b12-60eeae078b73.png">
+
