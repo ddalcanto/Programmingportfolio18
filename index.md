@@ -12,3 +12,6 @@ Here you will find a collection of some of the project I've worked on my freshme
 
 -Time Since Calculator : https://github.com/godofdeathftw/Time-Since-Calculator
 
+Guessing Game : https://github.com/godofdeathftw/Guessing-Game
+
+PigLatin Converter : https://github.com/godofdeathftw/PigLatin-Converter/tree/master
