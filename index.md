@@ -5,6 +5,8 @@ Here you will find a collection of some of the project I've worked on my freshme
 ### Group Projects
 [-SpaceShip Game](https://github.com/godofdeathftw/Spaceship-Shooter)
 
+<img width="993" alt="spaceship game" src="https://user-images.githubusercontent.com/26355832/38640418-71fee262-3d91-11e8-979f-ec8e61fca1e3.png">
+
 ### Individual Projects
 [-A Guide to Date and Period in Java:](https://github.com/godofdeathftw/A-Guide-to-Date-and-Period-in-Java)
 
