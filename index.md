@@ -3,7 +3,7 @@ Here you will find a collection of some of the project I've worked on my freshme
 ## Contact Info
 -danieldc03@gmail.com
 ### Group Projects
--SpaceShip Game : https://github.com/godofdeathftw/Spaceship-Shooter/blob/master/README.md
+-SpaceShip Game : https://github.com/godofdeathftw/Spaceship-Shooter
 
 ### Individual Projects
 -A Guide to Date and Period in Java : https://github.com/godofdeathftw/A-Guide-to-Date-and-Period-in-Java
