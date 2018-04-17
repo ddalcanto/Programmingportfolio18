@@ -6,7 +6,7 @@ Here you will find a collection of some of the project I've worked on my freshme
 -SpaceShip Game : https://github.com/godofdeathftw/Spaceship-Shooter
 
 ### Individual Projects
--A Guide to Date and Period in Java : https://github.com/godofdeathftw/A-Guide-to-Date-and-Period-in-Java
+[-A Guide to Date and Period in Java](https://github.com/godofdeathftw/A-Guide-to-Date-and-Period-in-Java)
 
 -Shape Tester : https://github.com/godofdeathftw/shapetester
 
